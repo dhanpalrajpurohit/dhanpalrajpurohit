@@ -173,6 +173,15 @@ nav ul li a:hover::after{
     background: #ff004f;
 
 }
+.btn-link{
+    padding: 5% 10% 5%;
+    background-color: #42aaf5;
+    border: 1px solid;
+    border-radius: 8px;
+    font-size: 14px;
+    border-color: #42aaf5;
+    font-weight: bold;
+}
 /* ------------------------------------ */
 #portfolio{
     padding: 50px 0;
